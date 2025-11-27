@@ -45,7 +45,11 @@ Insights (Important!) :
 - Analyzed most purchased categories. 
 
 Dashboard Screenshots :
-RFM Scoring DB.png, 
-Session Analysis DB.png, 
-Top Categories DB.png.
+📂 Screenshots/
+   ├─ RFM Scoring DB.png
+   ├─Session Analysis DB.png
+   └─ Top Categories DB.png
+
+
+
 
