@@ -64,4 +64,17 @@ Dashboard Screenshots :
 
 
 
+---
+
+## 👨‍💻 Author :
+
+**Muhammad Yusuf Arafath A**  
+📧 arafath786025@gmail.com  
+🎓 B.Sc. Computer Science  
+📍 Kongu College of Arts and Science, Karur
+
+---
+
+⭐ If you like this project, please give it a star!
+
 
