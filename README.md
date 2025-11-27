@@ -1,16 +1,20 @@
 Project Title :
+
 # E-commerce-Analysis
 
 Project Description :
+
 This project analyzes e-commerce customer behavior using Python and Power BI.
 It includes session analysis, RFM scoring, and product category insights using datasets provided in CSV format.
 
 Technologies Used :
+
 - Python (Pandas, Openpyxl, mysql.connector)
 - Power BI
 - Excel
 
 Folder Structure :
+
 📂 Dashboards/
    ├─ RFM Scoring.pbix
    ├─ Session Analysis.pbix
@@ -31,20 +35,24 @@ Folder Structure :
    └─ session_analysis_output.xlsx
 
 How to Run Python Programs :
+
 pip install -r requirements.txt
 python Programs/rfm_scoring.py, 
 python Programs/session_analysis.py
 
 How to View Dashboards :
+
 Open .pbix files in Microsoft Power BI Desktop.
 Dashboards are located in the 'Dashboards' folder.
 
 Insights (Important!) :
+
 - Identified top customers using RFM scoring, 
 - Found customer session patterns, 
 - Analyzed most purchased categories. 
 
 Dashboard Screenshots :
+
 📂 Screenshots/
    ├─ RFM Scoring DB.png
    ├─Session Analysis DB.png
