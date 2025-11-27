@@ -1,0 +1,20 @@
+product_id,product_name,category,price
+PROD0001,Smartphone,Electronics,7063
+PROD0002,Laptop,Electronics,9302
+PROD0003,Headphones,Electronics,1065
+PROD0004,Keyboard,Electronics,8915
+PROD0005,Mouse,Electronics,2349
+PROD0006,T-shirt,Fashion,6347
+PROD0007,Shoes,Fashion,1018
+PROD0008,Jeans,Fashion,7111
+PROD0009,Jacket,Fashion,9896
+PROD0010,Rice,Groceries,3411
+PROD0011,Oil,Groceries,5379
+PROD0012,Snacks,Groceries,6373
+PROD0013,Juice,Groceries,7669
+PROD0014,Football,Sports,1839
+PROD0015,Cricket Bat,Sports,3566
+PROD0016,Tennis Racket,Sports,3365
+PROD0017,Shampoo,Beauty,3324
+PROD0018,Face Wash,Beauty,6068
+PROD0019,Perfume,Beauty,5640
