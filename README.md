@@ -32,7 +32,7 @@ Folder Structure :
 
 How to Run Python Programs :
 pip install -r requirements.txt
-python Programs/rfm_scoring.py
+python Programs/rfm_scoring.py, 
 python Programs/session_analysis.py
 
 How to View Dashboards :
@@ -40,12 +40,12 @@ Open .pbix files in Microsoft Power BI Desktop.
 Dashboards are located in the 'Dashboards' folder.
 
 Insights (Important!) :
-- Identified top customers using RFM scoring
-- Found customer session patterns
-- Analyzed most purchased categories
+- Identified top customers using RFM scoring, 
+- Found customer session patterns, 
+- Analyzed most purchased categories. 
 
 Dashboard Screenshots :
-RFM Scoring DB.png
-Session Analysis DB.png
-Top Categories DB.png
+RFM Scoring DB.png, 
+Session Analysis DB.png, 
+Top Categories DB.png.
 
