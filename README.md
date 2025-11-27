@@ -53,10 +53,14 @@ Insights (Important!) :
 
 Dashboard Screenshots :
 
-📂 Screenshots/
-   ├─ RFM Scoring DB.png
-   ├─Session Analysis DB.png
-   └─ Top Categories DB.png
+## 📊 RFM Scoring Dashboard
+![RFM Scoring](Screenshots/RFM%20Scoring%20DB.png)
+
+## 🕒 Session Analysis Dashboard
+![Session Analysis](Screenshots/Session%20Analysis%20DB.png)
+
+## 🛍️ Top Categories Dashboard
+![Top Categories](Screenshots/Top%20Categories%20DB.png)
 
 
 
